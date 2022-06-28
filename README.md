@@ -1,6 +1,7 @@
 ### Hi there, I'm Kimmo Polojärvi 👋
 
-*student at [Hive Helsinki](https://www.hive.fi/en/)*
+*Student at [Hive Helsinki](https://www.hive.fi/en/)*
+*Looking for internship opportunities*
 
 ![GitHub Snake Light](https://github.com/N1GH7C4P/N1GH7C4P/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/N1GH7C4P/N1GH7C4P/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
@@ -53,7 +54,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Tech that I wish to improve
+## Tech that I wish to hone my skills at
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
