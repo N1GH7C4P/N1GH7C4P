@@ -66,9 +66,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -111,19 +111,18 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-C                        6 hrs 43 mins       ███████████████████████░░   92.16% 
-Makefile                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
+C                        6 hrs 22 mins       ███████████████████████░░   93.29% 
+Makefile                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.71%
 
 🔥 Editors: 
-VS Code                  7 hrs 17 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 49 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-printf                   7 hrs 3 mins        ████████████████████████░   96.7% 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3%
+printf                   6 hrs 35 mins       ████████████████████████░   96.47% 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
 
 💻 Operating System: 
-Linux                    7 hrs 17 mins       █████████████████████████   100.0%
+Linux                    6 hrs 49 mins       █████████████████████████   100.0%
 
 ```
 
@@ -144,5 +143,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/08/2022 18:50:10 UTC
+ Last Updated on 30/08/2022 18:49:20 UTC
 <!--END_SECTION:waka-->
