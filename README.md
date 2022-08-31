@@ -68,7 +68,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -143,5 +143,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/08/2022 18:49:20 UTC
+ Last Updated on 31/08/2022 18:50:10 UTC
 <!--END_SECTION:waka-->
