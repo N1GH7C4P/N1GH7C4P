@@ -66,7 +66,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -82,6 +82,48 @@
  > 
 > 🔑 14 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3% 
+🌆 Daytime    127 commits    ███████████████░░░░░░░░░░   59.91% 
+🌃 Evening    67 commits     ████████░░░░░░░░░░░░░░░░░   31.6% 
+🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.19%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
+Tuesday      68 commits     ████████░░░░░░░░░░░░░░░░░   32.08% 
+Wednesday    52 commits     ██████░░░░░░░░░░░░░░░░░░░   24.53% 
+Thursday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+Friday       38 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.92% 
+Saturday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
+Sunday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.6%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Helsinki
+
+💬 Programming Languages: 
+C                        28 mins             █████████████████████████   100.0%
+
+🔥 Editors: 
+VS Code                  28 mins             █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+printf                   28 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    28 mins             █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -99,5 +141,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:48:20 UTC
+ Last Updated on 05/09/2022 18:51:12 UTC
 <!--END_SECTION:waka-->
