@@ -68,7 +68,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -111,16 +111,17 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-C                        28 mins             █████████████████████████   100.0%
+C                        3 hrs 48 mins       ████████████████████████░   98.94% 
+Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.0%
+VS Code                  3 hrs 50 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-printf                   28 mins             █████████████████████████   100.0%
+printf                   3 hrs 50 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.0%
+Linux                    3 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
@@ -141,5 +142,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 18:51:12 UTC
+ Last Updated on 07/09/2022 18:52:43 UTC
 <!--END_SECTION:waka-->
