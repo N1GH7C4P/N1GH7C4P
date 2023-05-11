@@ -63,7 +63,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -106,19 +106,19 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-TypeScript               3 hrs 37 mins       ███████████████████████░░   90.70 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+TypeScript               2 hrs 41 mins       ███████████████████████░░   93.88 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-angular-maps             3 hrs 59 mins       █████████████████████████   100.00 % 
+angular-maps             2 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -138,5 +138,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2023 18:40:05 UTC
+ Last Updated on 11/05/2023 18:36:31 UTC
 <!--END_SECTION:waka-->
