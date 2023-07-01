@@ -63,7 +63,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -139,5 +139,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2023 18:39:13 UTC
+ Last Updated on 01/07/2023 18:38:01 UTC
 <!--END_SECTION:waka-->
