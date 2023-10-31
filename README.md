@@ -71,6 +71,8 @@
 
 > 📦 135.4 kB Used in GitHub's Storage 
  > 
+> 🏆 37 Contributions in the Year 2023
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -134,5 +136,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2023 18:37:30 UTC
+ Last Updated on 31/10/2023 18:37:20 UTC
 <!--END_SECTION:waka-->
