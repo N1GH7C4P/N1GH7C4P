@@ -106,20 +106,16 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-HTML                     8 mins              █████████████████░░░░░░░░   68.61 % 
-Java                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-JSON                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AIPA                     9 mins              ████████████████████░░░░░   81.26 % 
-aipa-tietoalusta         2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -139,5 +135,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2024 18:37:31 UTC
+ Last Updated on 14/02/2024 18:37:43 UTC
 <!--END_SECTION:waka-->
