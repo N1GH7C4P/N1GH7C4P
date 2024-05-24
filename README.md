@@ -63,15 +63,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 135.5 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,20 +104,20 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-TypeScript               13 hrs 42 mins      ███████████████████████░░   93.49 % 
-HTML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+TypeScript               15 hrs 10 mins      ████████████████████████░   94.06 % 
+HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AIPA                     14 hrs 39 mins      █████████████████████████   100.00 % 
+AIPA                     16 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -139,5 +137,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2024 18:38:10 UTC
+ Last Updated on 24/05/2024 18:38:31 UTC
 <!--END_SECTION:waka-->
