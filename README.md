@@ -63,7 +63,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -106,17 +106,17 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-TypeScript               2 hrs 9 mins        █████████████████████████   99.86 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               4 hrs 13 mins       █████████████████████████   99.90 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AIPA                     2 hrs 10 mins       █████████████████████████   100.00 % 
+AIPA                     4 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -136,5 +136,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2024 18:39:07 UTC
+ Last Updated on 29/06/2024 18:37:49 UTC
 <!--END_SECTION:waka-->
