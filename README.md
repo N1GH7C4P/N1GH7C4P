@@ -75,7 +75,7 @@
  > 
 > 📜 21 Public Repositories 
  > 
-> 🔑 15 Private Repositories 
+> 🔑 16 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -104,16 +104,19 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               39 mins             ██████████████████░░░░░░░   72.21 % 
+SQL                      14 mins             ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AIPA                     54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -133,5 +136,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2024 18:40:07 UTC
+ Last Updated on 12/07/2024 18:41:29 UTC
 <!--END_SECTION:waka-->
