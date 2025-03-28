@@ -63,6 +63,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -102,19 +104,16 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-C#                       24 mins             ███████████████░░░░░░░░░░   59.30 % 
-JSON                     16 mins             ██████████░░░░░░░░░░░░░░░   40.62 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JSON                     16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-az-204                   24 mins             ███████████████░░░░░░░░░░   59.38 % 
-Unknown Project          16 mins             ██████████░░░░░░░░░░░░░░░   40.62 % 
+Unknown Project          16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -134,5 +133,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 18:47:33 UTC
+ Last Updated on 28/03/2025 18:49:07 UTC
 <!--END_SECTION:waka-->
