@@ -63,13 +63,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 242.6 kB Used in GitHub's Storage 
+> 📦 245.6 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2026
  > 
@@ -106,19 +106,18 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Java                     34 mins             █████████████████░░░░░░░░   68.01 % 
-TypeScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Java                     32 mins             █████████████████░░░░░░░░   69.13 % 
+TypeScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+VS Code                  47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aipa-mono                50 mins             █████████████████████████   100.00 % 
+aipa-mono                47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -138,5 +137,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2026 18:49:04 UTC
+ Last Updated on 03/04/2026 18:48:02 UTC
 <!--END_SECTION:waka-->
