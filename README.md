@@ -63,6 +63,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2032%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -77,6 +79,45 @@
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+🌆 Daytime                267 commits         ██████████████░░░░░░░░░░░   57.79 % 
+🌃 Evening                142 commits         ████████░░░░░░░░░░░░░░░░░   30.74 % 
+🌙 Night                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Tuesday                  143 commits         ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Wednesday                94 commits          █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Thursday                 59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Friday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Saturday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Helsinki
+
+💬 Programming Languages: 
+Java                     7 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  7 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+aipa-sa                  7 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  7 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -94,5 +135,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 19:25:17 UTC
+ Last Updated on 29/05/2026 19:22:14 UTC
 <!--END_SECTION:waka-->
