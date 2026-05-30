@@ -63,7 +63,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,7 +112,8 @@ Java                     7 mins              ███████████�
 VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aipa-sa                  7 mins              █████████████████████████   100.00 % 
+aipa-sa                  7 mins              ████████████████████████░   96.13 % 
+aipa-mono                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 💻 Operating System: 
 Windows                  7 mins              █████████████████████████   100.00 % 
@@ -135,5 +136,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/N1GH7C4P/N1GH7C4P/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 19:22:14 UTC
+ Last Updated on 30/05/2026 18:51:53 UTC
 <!--END_SECTION:waka-->
